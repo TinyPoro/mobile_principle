@@ -180,11 +180,11 @@ Những người tham gia nghiên cứu  có xu hướng ở lại cùng 1 màn 
 
 Người dùng có thể gặp vấn đề trong việc chuyển giữa các cửa sổ và có thể không thể tìm cách quay lại trang. Tránh gọi các hành động mở cửa sổ mới. Khám phá các hành trình có thể khiến người dùng nhìn ra ngoài trang của bạn và cung cấp các tính năng giữa họ ở lại trang của bạn. Ví dụ, nếu bạn chấp nhận mã giảm giá, cho họ trực tiếp trên trang, hơn là bắt người dụng tìm kiếm các trang khác để giao dịch.
 
-### Avoid "full site" labeling Tránh các nhãn "toàn trang"
+### Tránh các nhãn "trang đầy đủ"
 
 Khi người tham gia nghiên cứu thấy 1 lựa chọn cho toàn trang" (ví dụ trang desktop) với "trang mobile", họ nghĩ rằng trang mobile sẽ thiếu nội dung và chọn cái "đầy đủ", hướng họ đến trang desktop
 
-### Be clear why you need a user's location Chắc rằng lý do bạn cần vị trí người dùng
+### Chắc rằng lý do bạn cần vị trí người dùng
 
 
 Người dùng sẽ không luốn hiểu được tại sao bạn lại yêu cầu [vị trí][40] của họ. Những người tham gia nghiên cứu cố gắng đặt 1 khách sạn ở 1 thành phố khác trở nên bối rỗi khí trang du lịch phát hiện vị trí của họ và đưa ra các khách sạn ở thành phố hiện tại của họ. Để trống trường vị trí theo mặc định, và để người dùng lựa chọn để  tìm 1 lời gọi hành động rõ ràng như "Find Near Me"
