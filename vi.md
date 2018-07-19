@@ -7,14 +7,14 @@ What Makes a Good Mobile Site?  |  Các nguyên tắc Web cơ bản  |  Các l�
 
 ![Jenny Gove][1]
 
-Jenny Gove là 1 trưởng nhóm nghiên cứu UX tại Google,  nơi cô ấy tiến hành các nghiên cứu  về các trải nghiệm trên điện thoại thông minh.  Cô được nhận bằng tiến sĩ từ trường đại học Southampton, UK.
+Jenny Gove là 1 trưởng nhóm nghiên cứu UX tại Google,  nơi cô ấy tiến hành các nghiên cứu  về các trải nghiệm trên điện thoại thông minh. Cô được nhận bằng tiến sĩ từ trường đại học Southampton, UK.
 
 Google và AnswerLab đã tiến hành 1 [nghiên cứu][2] để trả lời cho câu hỏi này: 
 
 > Người dùng mobile có xu hướng hướng đến các mục tiêu cụ thể. Họ mong muốn có được những thứ họ cần,  và theo những gì họ muốn.
 
 
-Nghiên cứu được thực hiện trong suốt 119 giờ đồng hồ,  với các cuộc  thử nghiệm sử dụng trực tiếp từ những người tham gia ở Mĩ. Những người tham gia sẽ được yêu cầu thực hiện các công việc quan trọng trên 1 tập các trang mobile phong phú. Bao gồm cả những người dũng IOS cũng như Android, và những người dùng sẽ kiểm tra các trang trên chính điện thoại của họ. Với mỗi trang, những người tham gia sẽ được yêu cầu nói ra những cảm nhận của họ khi  họ hoàn thành các công việc liên quan đến giao tiếp như thực hiện  1 giao dịch hay đặt chỗ trước.
+Nghiên cứu được thực hiện trong suốt 119 giờ đồng hồ,  với các cuộc  thử nghiệm sử dụng trực tiếp từ những người tham gia ở Mĩ. Những người tham gia sẽ được yêu cầu thực hiện các công việc quan trọng trên 1 tập các trang mobile phong phú. Bao gồm cả những người dùng IOS cũng như Android, và những người dùng sẽ kiểm tra các trang trên chính điện thoại của họ. Với mỗi trang, những người tham gia sẽ được yêu cầu nói to những cảm nhận của họ khi họ hoàn thành các công việc liên quan đến thao tác như thực hiện 1 giao dịch hay đặt hàng trước.
 
 Nghiên cứu đã khám phá ra 25 nguyên lý thiết kế các trang mobile, nhòm thành 5 chủ đề chính.
 
@@ -35,7 +35,7 @@ Những hoạt động phụ khả dụng qua [menus][3] hoặc "below the fold"
 
 ![][6]**DO**: Để menu ngắn và hấp dẫn. 
 
-Người dùng mobile thường không kiên nhẫn để lăn chuột qua những danh sách các lựa chọn dài để tìm những gì họ muốn. Tổ chức lại menu của bạn sao cho ít các mục nhất có thể, mà không mất đi tính hữu dụng.
+Người dùng mobile thường không kiên nhẫn để cuộn qua những danh sách các lựa chọn dài để tìm những gì họ muốn. Tổ chức lại menu của bạn sao cho ít các mục nhất có thể, mà không mất đi tính hữu dụng.
 
 ### Làm cho việc quay trở lại trang chủ dễ dàng.
 
@@ -51,7 +51,7 @@ Các ứng dụng lớn sẽ cài các quảng cáo xen kẽ(như các quảng c
 **DO**: Các quảng cáo có thể dễ dàng bị loại bỏ và không làm ảnh hưởng đến trải nghiệm người dùng.
 
 ![][10]
-**DON'T**: Các quảng cáo( đổi khi còn được gọi là các door slam) thường làm phiền người dùng và làm ảnh hưởng đến trang.
+**DON'T**: Các quảng cáo( đôi khi còn được gọi là các door slam) thường làm phiền người dùng và làm ảnh hưởng đến trang.
 
 
 ## Tìm kiếm trang
@@ -71,7 +71,7 @@ Người dùng sẽ tìm đến thanh tìm kiếm khi muốn tìm thông tin, v�
 Người dùng sẽ không tìm vài trang để tìm kết quả họ mong muốn. Giúp người dùng sử dụng dễ dàng hơn với các truy vấn tự hoàn thiện, sửa các lỗi chính tả, và gợi ý các truy vấn liên quan. Thay vì sáng tạo, hay xem xét các sản phẩm mạnh mẽ như [Google Custom Search][13].
 
 
-![][14]**DO**: Macy's chỉ trả về các vật dụng trẻ em 
+![][14]**DO**: Macy's chỉ trả về các đồ chơi cho trẻ em 
 
 ![][15]**DON'T**: Trả về tất cả các kết quả về bất cứ gì có từ kids trong đó.
 
@@ -94,7 +94,7 @@ Với các trang có tập khách hàng phong phú, hỏi 1 vài câu hỏi trư
 **Success:** Hiểu được mong muốn của khách hàng và để người  dùng chuyển thành các chỉ định của riêng họ.
 ###  Để người dụng khám phá trước khi tham gia
 
-Những người tham gia nghiên cứu cảm thấy bực bội khi những trang yêu cầu họ đăng ký trả trước để xem trang, đặc biệt với những trang không quen thuộc. Mặc dù thông tin khách hàng  có thể quan trọng với việc kinh doanh của bạn, nhưng yêu cầu quá sớm có thể  làm ít người đăng ký hơn.
+Những người tham gia nghiên cứu cảm thấy bực bội khi những trang yêu cầu họ đăng ký trả trước để xem trang, đặc biệt với những thương hiệu không quen thuộc. Mặc dù thông tin khách hàng  có thể quan trọng với việc kinh doanh của bạn, nhưng yêu cầu quá sớm có thể khiến ít người đăng ký hơn.
 
 ![][20]
 **DO**: Cho phép người dùng duyệt trang mà không yêu cầu đăng nhập.
@@ -106,7 +106,7 @@ Những người tham gia nghiên cứu cảm thấy bực bội khi những tra
 
 ![][22]**DO**: Cho phép người dùng giao dịch với vai trò khách
 
-Những người tham gia nghiên cứu  đánh giá theo vai trò khách là "tiện lợi", "đơn giản", "dễ dàng", và"nhanh chóng". Người dùng cảm thấy khs chịu với các trang éo họ phải đăng ký 1 tài khoản khí thực hiện giao dịch, đặc biệt khi lợi ích của việc tạo tài khoản không rõ ràng.
+Những người tham gia nghiên cứu  đánh giá theo vai trò khách là "tiện lợi", "đơn giản", "dễ dàng", và"nhanh chóng". Người dùng cảm thấy khó chịu với các trang ép họ phải đăng ký 1 tài khoản khí thực hiện giao dịch, đặc biệt khi lợi ích của việc tạo tài khoản không rõ ràng.
 
 ###  Sử dụng các thông tin sẵn có thể tối ưu sự thuận tiện
 
@@ -116,11 +116,11 @@ Nhớ và [điền trước các tùy chọn][ 23] cho người dùng đăng ký
 
 Trên các thiết bị có khả năng gọi, [các đường dẫn click để gọi][24] giúp người dùng có thể tạo 1 cuộc gọi chỉ bằng click 1 đường dẫn. Trên hầu hết thiết bị điện thoại người dùng sẽ nhận được 1 thông báo xác nhận trước khi số được gọi, hay 1 menu  sẽ hiện để yêu cầu người dùng cách mà số sẽ được xử lý.
 
-###  Khiến việc hoàn thành trên 1 thiết bị  khác trở nên dễ dàng
+###  Khiến việc hoàn thành trên 1 thiết bị khác trở nên dễ dàng
 
 ![][25]**DO**: Cung cấp 1 cách dễ dàng để người dùng có thể tiếp tục duyệt hay mua sắm trên 1 thiết bị khác.
 
-Người dùng thường muốn hoàn thành các công việc trên 1 thiết bị khác.  Ví dụ, họ có thể muốn xem 1 mục trên 1 màn hình lớn hơn. Hay là họ tự nhiên bận và muốn hoàn thành sau đó. Hỗ trợ khách hàng bằng cách cho phép người dùng có thể [chia sẽ các mục trên mạng xã hội][26], hoặc cho email người dùng liên kết trực tiếp từ trong trang.
+Người dùng thường muốn hoàn thành các công việc trên 1 thiết bị khác.  Ví dụ, họ có thể muốn xem 1 mục trên 1 màn hình lớn hơn. Hay là họ tự nhiên bận và muốn hoàn thành sau đó. Hỗ trợ khách hàng bằng cách cho phép người dùng có thể [chia sẽ các mục trên mạng xã hội][26], hoặc cho người dùng gửi email có liên kết trực tiếp từ trong trang.
 
 ## Luồng vào form
 
