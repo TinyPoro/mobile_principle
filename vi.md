@@ -3,7 +3,7 @@
 [Source](https://developers.google.com/web/fundamentals/design-and-ux/principles/ "Permalink to What Makes a Good Mobile Site?  |  Web Fundamentals  |  Google Developers")
 
 # Điều gì tạo nên một trang mobile tốt | 
-What Makes a Good Mobile Site?  |  Các nguyên tắc Web cơ bản  |  Các lập trình viên Google
+Điều gì tạo nên một trang mobile tốt?  |  Các nguyên tắc Web cơ bản  |  Các lập trình viên Google
 
 ![Jenny Gove][1]
 
@@ -16,19 +16,19 @@ Google và AnswerLab đã tiến hành 1 [nghiên cứu][2] để trả lời ch
 
 Nghiên cứu được thực hiện trong suốt 119 giờ đồng hồ,  với các cuộc  thử nghiệm sử dụng trực tiếp từ những người tham gia ở Mĩ. Những người tham gia sẽ được yêu cầu thực hiện các công việc quan trọng trên 1 tập các trang mobile phong phú. Bao gồm cả những người dũng IOS cũng như Android, và những người dùng sẽ kiểm tra các trang trên chính điện thoại của họ. Với mỗi trang, những người tham gia sẽ được yêu cầu nói ra những cảm nhận của họ khi  họ hoàn thành các công việc liên quan đến giao tiếp như thực hiện  1 giao dịch hay đặt chỗ trước.
 
-Nghiên cứu đã khám phá ra 25 nguyên lý thiết kế các trang mobile, nhòm thành 5 chủ đề chính.
+Nghiên cứu đã khám phá ra 25 nguyên lý thiết kế các trang mobile, nhóm thành 5 chủ đề chính.
 
 ## Trang chủ và điều hướng trang
 
 **Success:** Tập  trung vào việc kết nối người dùng với nội dung họ tìm kiếm. 
 
-###  Đặt các lợi gọi đến các hành động ở phía trước và ở giữa.
+###  Đặt các lời gọi đến các hành động ở phía trước và ở giữa.
 
-Những hoạt động phụ khả dụng qua [menus][3] hoặc "below the fold" (phần trang web không thể nhìn thấy nếu không cuộn xuống).
+Thực hiện các tác vụ phụ qua [menus][3] hoặc "below the fold" (phần trang web không thể nhìn thấy nếu không cuộn xuống).
 
 ![][4]**DO**:  Khiến  tất cả người dùng có thể tiếp cận những công việc thông dụng nhất 1 cách dễ dàng.
 
-![][5]**DON'T**:  Lãng phí các khoảng trống bên above-the-fold với các lời gọi hành động không rõ ràng như "learn more".
+![][5]**DON'T**:  Lãng phí các khoảng trống trên màn hình đầu tiên với các lời gọi hành động không rõ ràng như "learn more".
 
 ### Để menu ngắn và hấp dẫn.
 
@@ -106,7 +106,7 @@ Những người tham gia nghiên cứu cảm thấy bực bội khi những tra
 
 ![][22]**DO**: Cho phép người dùng giao dịch với vai trò khách
 
-Những người tham gia nghiên cứu  đánh giá theo vai trò khách là "tiện lợi", "đơn giản", "dễ dàng", và"nhanh chóng". Người dùng cảm thấy khs chịu với các trang éo họ phải đăng ký 1 tài khoản khí thực hiện giao dịch, đặc biệt khi lợi ích của việc tạo tài khoản không rõ ràng.
+Những người tham gia nghiên cứu  đánh giá theo vai trò khách là "tiện lợi", "đơn giản", "dễ dàng", và"nhanh chóng". Người dùng cảm thấy khó chịu với các trang web buộc họ phải đăng ký 1 tài khoản khí thực hiện giao dịch, đặc biệt khi lợi ích của việc tạo tài khoản không rõ ràng.
 
 ###  Sử dụng các thông tin sẵn có thể tối ưu sự thuận tiện
 
@@ -172,9 +172,9 @@ Các khách hàng mong đợi các trang để họ [view high resolution closeu
 ![][38]**DO**:  Nói cho người dùng những hướng tốt nhất.
 
 
-Những người tham gia nghiên cứu  có xu hướng ở lại cùng 1 màn hình cho tới khi có gì đó  bảo nó chuyển đi. Thiết kế cho cả  phong cảnh và  chân dung, hay khuyến khích người dùng chuyển đến các hướng tối ưu. Đảm bảo rằng những lời gọi hành động quan trọng của bạn có thể được hoàn thành ngay cả khi người dùng từ chối gợi ý chuyển hướng.
+Những người tham gia nghiên cứu  có xu hướng ở lại cùng 1 màn hình cho tới khi có gì đó  bảo nó chuyển đi. Thiết kế cho cả  chiều ngang và  chiều dọc, hay khuyến khích người dùng chuyển đến các hướng tối ưu. Đảm bảo rằng những lời gọi hành động quan trọng của bạn có thể được hoàn thành ngay cả khi người dùng từ chối gợi ý chuyển hướng.
 
-###  Để người dùng trên 1 cửa sổ trình duyệt
+###  Giữ người dùng trên 1 cửa sổ trình duyệt
 
 ![][39]**DO**: Macy's giữu người dùng ở trang của họ bằng cách cung cấp các mã giảm giá trên trang.
 
